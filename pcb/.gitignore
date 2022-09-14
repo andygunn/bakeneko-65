@@ -25,5 +25,5 @@ fp-info-cache
 *.xml
 *.csv
 
-# Gerber files
-gerber
+# Backup folder
+bakeneko-65-pcb-backups
